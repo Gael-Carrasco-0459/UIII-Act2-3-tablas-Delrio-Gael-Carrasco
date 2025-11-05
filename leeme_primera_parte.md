@@ -802,6 +802,7 @@ UIII_Delrio_0459/
 │   │   ├── Ventas/
 │   │   │   ├── agregar_venta.html
 │   │   │   ├── actualizar_venta.html
+│   │   │   ├── borrar_venta.html
 │   │   │   └── ver_venta.html
 │   │   ├── base.html
 │   │   ├── footer.html
